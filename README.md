@@ -110,7 +110,6 @@ Use this in your `.gitignore`:
 
 This project is open-sourced for learning and portfolio purposes. Add a license if needed.
 
-## 🔗 Showcase
+## 🔗 Lets Connect:
 
--  [Live Demo (if any)](https://your-live-demo-link.com)
 -  [LinkedIn](www.linkedin.com/in/mubashir-naqvi-4497b125b)
