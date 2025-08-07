@@ -12,25 +12,38 @@ A simple blog/article management system built with Laravel and Laravel Breeze. I
 
 ## Screenshots
 
-## Screenshots
-
-### Home Page
-![Home Page](public/blog%20management%20system%20screenshots/Home%20page.PNG)
-
-### Admin Dashboard
-![Admin Dashboard](public/blog%20management%20system%20screenshots/Admin%20Dashboard.PNG)
-
-### Create New Post
-![Create New Post](public/blog%20management%20system%20screenshots/Create%20Now%20post.PNG)
-
-### Edit Post
-![Edit Post](public/blog%20management%20system%20screenshots/Edite%20Post.PNG)
-
-### Login Page
-![Login](public/blog%20management%20system%20screenshots/login.PNG)
-
-### Signup & Login Page
-![Signup & Login](public/blog%20management%20system%20screenshots/signup-login.PNG)
+<table>
+  <tr>
+    <td align="center">
+      <img src="public/blog%20management%20system%20screenshots/Admin%20Dashboard.PNG" width="400" alt="Admin Dashboard" /><br/>
+      <b>Admin Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="public/blog%20management%20system%20screenshots/Create%20Now%20post.PNG" width="400" alt="Create New Post" /><br/>
+      <b>Create New Post</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="public/blog%20management%20system%20screenshots/Edite%20Post.PNG" width="400" alt="Edit Post" /><br/>
+      <b>Edit Post</b>
+    </td>
+    <td align="center">
+      <img src="public/blog%20management%20system%20screenshots/Home%20page.PNG" width="400" alt="Home Page" /><br/>
+      <b>Home Page</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="public/blog%20management%20system%20screenshots/login.PNG" width="400" alt="Login" /><br/>
+      <b>Login Page</b>
+    </td>
+    <td align="center">
+      <img src="public/blog%20management%20system%20screenshots/signup-login.PNG" width="400" alt="Signup & Login" /><br/>
+      <b>Signup & Login</b>
+    </td>
+  </tr>
+</table>
 
 
 ## 📦 Installation
