@@ -12,7 +12,26 @@ A simple blog/article management system built with Laravel and Laravel Breeze. I
 
 ## Screenshots
 
-> Add screenshots here if you'd like! (dashboard, home page, etc.)
+## Screenshots
+
+### Home Page
+![Home Page](public/blog%20management%20system%20screenshots/Home%20page.PNG)
+
+### Admin Dashboard
+![Admin Dashboard](public/blog%20management%20system%20screenshots/Admin%20Dashboard.PNG)
+
+### Create New Post
+![Create New Post](public/blog%20management%20system%20screenshots/Create%20Now%20post.PNG)
+
+### Edit Post
+![Edit Post](public/blog%20management%20system%20screenshots/Edite%20Post.PNG)
+
+### Login Page
+![Login](public/blog%20management%20system%20screenshots/login.PNG)
+
+### Signup & Login Page
+![Signup & Login](public/blog%20management%20system%20screenshots/signup-login.PNG)
+
 
 ## 📦 Installation
 
